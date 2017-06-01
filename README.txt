@@ -1,6 +1,12 @@
 Marshall Lynn and Kirsten Vail
 
-We have adhered to the honor code on this assignment
+This github repo contains Java code for our implementation of the game Boggle for the course CS151, Data Structures. To run the game please compile and run Boggle.java
 
-ehhh idk none that we know see but meh we could be wrong
+Boggle.java : Main class for the Boggle game.
+MyTrie.java : class that implements the trie structure to be used to hold the dictionary for Boggle
+MyTrieTest.java : junit tests for MyTrie
+Square.java, BoggleFrame.java, ExpandableList.java : provided Java Classes we utilized to build our Boggle.
+
+
+
 
